@@ -43,4 +43,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn nltk tensorflow flask
 
  For deployment, you can visit the  Render website  and follow their instructions to deploy your Flask web application.
 
- ## Visit 
+ ## Visit : https://sms-spam-detector-f3dd.onrender.com/predict
